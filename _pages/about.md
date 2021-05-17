@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Ramon y Cajal fellow at the University of Barcelona. My research line focusses on interrogating how individual cells and tissues sense and respond to mechanical cues and how this relates to cell and tissue migration. 
+Welcome! I am a Ramon y Cajal fellow at the University of Barcelona. My research line focusses on interrogating how individual cells and tissues sense and respond to mechanical cues and how this relates to cell and tissue migration.
 
 Check out an introductory review to our work:
 1. [Mechanobiology of collective systems](http://biofisica.info/articles-7/mechanobiology-of-collective-cell-systems/)
