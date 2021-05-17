@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "R. Sunyer"
+title                    : "Raimon Sunyer"
 title_separator          : "-"
 name                     : &name "Raimon Sunyer"
 description              : &description "Ramon y Cajal tenure track fellow"
-url                      : https://rsunyer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rsunyer/rsunyer.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300."
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "dark" # "light" (default), "dark"
+    colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Raimon Sunyer"
   avatar           : "avatar.png"
-  bio              : "Tenure track Ramon y Cajal fellow"
+  bio              : "Ramon y Cajal fellow"
   location         : "Barcelona"
   employer         : "University of Barcelona"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=zokYETcAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.es/citations?user=zokYETcAAAAJ&hl=ca"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
